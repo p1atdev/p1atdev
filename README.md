@@ -5,20 +5,23 @@
 <a href="https://github.com/p1atdev/MonsterSiren">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p1atdev&repo=MonsterSiren" />
 </a>
+
 <a href="https://github.com/p1atdev/alloy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p1atdev&repo=alloy" />
 </a>
 
-<a href="https://github.com/p1atdev/twitterql">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p1atdev&repo=twitterql" />
+<a href="https://github.com/p1atdev/whisper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p1atdev&repo=whisper" />
 </a>
+
 <a href="https://github.com/p1atdev/CVE-2021-37850">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p1atdev&repo=CVE-2021-37850" />
 </a>
 
+<a href="https://github.com/p1atdev/cinii">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p1atdev&repo=cinii" />
+</a>
+
 <a href="https://github.com/p1atdev/calil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p1atdev&repo=calil" />
-</a>
-<a href="https://github.com/p1atdev/manga-dl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p1atdev&repo=manga-dl" />
 </a>
